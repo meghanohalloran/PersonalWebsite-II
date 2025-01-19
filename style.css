@@ -1,0 +1,27 @@
+text {}
+
+title {
+
+  color: rgb(255, 0, 140);
+  text-align: center;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+
+}
+
+head {
+  height: 200px;
+  color: rgb(20, 79, 255);
+
+}
+
+header {
+  color: deeppink;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
